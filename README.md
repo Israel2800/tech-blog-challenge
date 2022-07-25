@@ -30,8 +30,9 @@ https://github.com/Israel2800/tech-blog-challenge
 
 
 ## Screenshots-Demo
-Home menu:
-![Screenshot of the webpage Home menu.](public/img/screenshot-1.png)
+**Webpage Home:**
+
+![Screenshot of the webpage Home.](public/img/screenshot-1.png)
 
 User Sign Up:
 ![Screenshot of a User Sign Up.](public/img/screenshot-2.png)
@@ -45,8 +46,8 @@ Adding a New Post:
 Edit and Delete Post options:
 ![Screenshot of Edit and Delete Post options.](public/img/screenshot-5.png)
 
-Submitting the first comment:
-![Screenshot of submitting the first comment.](public/img/screenshot-6.png)
+Submitting the first Post:
+![Screenshot of submitting the first Post.](public/img/screenshot-6.png)
 
 Comment from another User:
 ![Screenshot of a comment from another User.](public/img/screenshot-7.png)
