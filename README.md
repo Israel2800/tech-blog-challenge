@@ -30,7 +30,27 @@ https://github.com/Israel2800/tech-blog-challenge
 
 
 ## Screenshots-Demo
-![Screenshot of the project running in Heroku.](public/img/screenshot-1.png)
+Home menu:
+![Screenshot of the webpage Home menu.](public/img/screenshot-1.png)
+
+User Sign Up:
+![Screenshot of a User Sign Up.](public/img/screenshot-2.png)
+
+User Log In:
+![Screenshot of a User Log In.](public/img/screenshot-3.png)
+
+Adding a New Post:
+![Screenshot of Adding a New Post.](public/img/screenshot-4.png)
+
+Edit and Delete Post options:
+![Screenshot of Edit and Delete Post options.](public/img/screenshot-5.png)
+
+Submitting the first comment:
+![Screenshot of submitting the first comment.](public/img/screenshot-6.png)
+
+Comment from another User:
+![Screenshot of a comment from another User.](public/img/screenshot-7.png)
+
 
 ## Project Objective
 Create a web application for all the users that would like to share their tech opinions; they will be able to log in by creating an account and the system will allow the user to add a new post, these posts will be public, where other people can add a comment. Posts can be edited and deleted and users will also have the option to look into their own dashboards!
