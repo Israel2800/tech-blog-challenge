@@ -34,22 +34,28 @@ https://github.com/Israel2800/tech-blog-challenge
 
 ![Screenshot of the webpage Home.](public/img/screenshot-1.png)
 
-User Sign Up:
+**User Sign Up:**
+
 ![Screenshot of a User Sign Up.](public/img/screenshot-2.png)
 
-User Log In:
+**User Log In:**
+
 ![Screenshot of a User Log In.](public/img/screenshot-3.png)
 
-Adding a New Post:
+**Adding a New Post:**
+
 ![Screenshot of Adding a New Post.](public/img/screenshot-4.png)
 
-Edit and Delete Post options:
+**Edit and Delete Post options:**
+
 ![Screenshot of Edit and Delete Post options.](public/img/screenshot-5.png)
 
-Submitting the first Post:
+**Submitting the first Post:**
+
 ![Screenshot of submitting the first Post.](public/img/screenshot-6.png)
 
-Comment from another User:
+**Comment from another User:**
+
 ![Screenshot of a comment from another User.](public/img/screenshot-7.png)
 
 
