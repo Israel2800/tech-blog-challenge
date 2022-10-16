@@ -26,8 +26,7 @@ Website link:
 https://the-tech-blog-12.herokuapp.com/
 
 GitHub project:
-https://github.com/Israel2800/tech-blog-challenge
-
+https://github.com/Israel2800/the-tech-blog
 
 ## Screenshots-Demo
 **Webpage Home:**
